@@ -18,7 +18,6 @@ O projeto tem como foco principal a criação de um layout visualmente impactant
 - **React**: Framework utilizado para a criação de componentes e construção do front-end.
 - **CSS**: Estilização personalizada para criar o visual do projeto.
 - **Google Fonts**: Integração de tipografias únicas para dar personalidade ao design.
-- **LocalStorage**: Para armazenamento local de dados simples.
 
 ## 🚀 Como Executar o Projeto
 
