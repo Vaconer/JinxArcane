@@ -2,6 +2,10 @@
 
 Este projeto foi desenvolvido utilizando [Create React App](https://github.com/facebook/create-react-app), com foco exclusivamente no design visual, sem funcionalidades complexas ou adaptação para dispositivos móveis. A página é um exemplo de interface de usuário (UI) atraente e uma experiência de usuário (UX) cativante, voltada apenas para desktop.
 
+## 🖼️ Visão Geral
+
+![image](https://github.com/user-attachments/assets/07f48e94-f5ad-4ade-95ff-d2748cd3f03c)
+
 ## 🎨 Objetivo do Projeto
 
 O projeto tem como foco principal a criação de um layout visualmente impactante, centrado no front-end e sem preocupações com responsividade ou lógicas complexas. Ele destaca:
@@ -33,10 +37,6 @@ O projeto tem como foco principal a criação de um layout visualmente impactant
    npm start
 
 O projeto estará disponível em http://localhost:3000.
-
-## 🖼️ Captura de Tela
-
-![image](https://github.com/user-attachments/assets/07f48e94-f5ad-4ade-95ff-d2748cd3f03c)
 
 ## 📌 Funcionalidades
 
