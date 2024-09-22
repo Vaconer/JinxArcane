@@ -1,0 +1,11 @@
+.footer {
+    background-color:transparent; /* Fundo semi-transparente para destacar o texto */
+    color: white;
+    text-align: right;
+    padding: 20px 20px;
+    position: fixed; /* Fixa o footer na parte inferior da tela */
+    bottom: 0; /* Fica na parte inferior */
+    left: 0; /* Alinha à esquerda */
+    right: 0; /* Alinha à direita */
+    z-index: 3; /* Fica acima de outros elementos */
+}

@@ -1,38 +1,54 @@
-.App {
-  text-align: center;
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+html, body {
+    height: 100%;
+    font-family: Arial, sans-serif; /* Você pode mudar para a fonte que quiser */
+    overflow: hidden;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+ul, ol {
+    list-style: none; /* Remove os pontos e números das listas */
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+a {
+    text-decoration: none;
+    color: inherit;
 }
 
-.App-link {
-  color: #61dafb;
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+button {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
 }
+
+input, textarea {
+    outline: none;
+    border: none;
+}
+
+/* Adiciona um estilo de cursor padrão */
+body, button, input, textarea {
+    cursor: default;
+}
+
+.app {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+    height: 100vh; /* Ocupa toda a altura da viewport */
+    width: 100%; /* Ocupa toda a largura da viewport */
+    position: relative; /* Para permitir o posicionamento dos filhos */
+}
+
