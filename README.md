@@ -23,3 +23,29 @@ O projeto tem como foco principal a criação de um layout visualmente impactant
 1. **Clone este repositório**:
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
+
+2. **Instale as dependências**:
+   ```bash
+   npm install
+
+3. **Inicie o servidor de desenvolvimento**:
+   ```bash
+   npm start
+
+O projeto estará disponível em http://localhost:3000.
+
+##🖼️ Captura de Tela
+
+![image](https://github.com/user-attachments/assets/07f48e94-f5ad-4ade-95ff-d2748cd3f03c)
+
+##📌 Funcionalidades
+
+Este projeto é focado unicamente no design estático, com as seguintes características:
+
+- **Layout Fixo**: Não há suporte para responsividade; a página foi projetada para ser visualizada apenas em desktop.
+- **Visual Atraente**: Uso de cores, tipografia e estrutura de layout para criar uma experiência visual marcante.
+- **Sem Interatividade Complexa**: A página é apenas uma vitrine de design front-end, sem funcionalidades dinâmicas ou back-end.
+
+##✨ Inspiração
+
+Este projeto foi desenvolvido para praticar habilidades de design front-end. Serve como exemplo de como criar uma interface visualmente interessante e centrada em desktop.
